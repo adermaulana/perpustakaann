@@ -41,7 +41,11 @@
                                 <i class="ri-book-2-fill"></i> <span data-key="databuku">Manajemen Buku</span>
                             </a>
                         </li>
-
+                        <li class="nav-item">
+                            <a class="nav-link menu-link" href="/admin/kategori">
+                                <i class="ri-add-circle-line"></i> <span data-key="kategori">Manajemen Kategori</span>
+                            </a>
+                        </li>
                         <li class="nav-item">
                             <a class="nav-link menu-link" href="/admin/anggota">
                                 <i class="ri-user-fill"></i> <span data-key="dataanggota">Data Anggota</span>
@@ -52,13 +56,12 @@
                                 <i class="ri-exchange-line"></i> <span data-key="datapeminjaman">Daftar Peminjaman</span>
                             </a>
                         </li>
-                        <li class="menu-title"><span data-key="t-menu">Manajemen Akun</span></li>
-                        
                         <li class="nav-item">
-                            <a class="nav-link menu-link" href="/admin/pustakawan">
-                                <i class="ri-add-circle-line"></i> <span data-key="pustakawan">Tambah Akun Pustakawan</span>
+                            <a class="nav-link menu-link" href="/admin/pengembalian">
+                                <i class="ri-exchange-line"></i> <span data-key="datapengembalian">Daftar Pengembalian</span>
                             </a>
                         </li>
+
 
                         <li class="menu-title"><span data-key="t-lain">Lain-lain</span></li>
                         <li class="nav-item">
